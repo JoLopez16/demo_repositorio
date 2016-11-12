@@ -5,5 +5,7 @@ public class claseA {
   
   public claseA(){
   x=0;
+  y=0;
+  z=0;
   }
 }
